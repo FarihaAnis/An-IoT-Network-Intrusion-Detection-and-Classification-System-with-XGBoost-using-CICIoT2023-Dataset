@@ -1,5 +1,5 @@
 # An-Intrusion-Classification-System-with-XGBoost-Classifier-using-CICIoT2023-Dataset
-Master's Project (UTM Skudai)
+Master of Data Science Project
 
 This project is dedicated to strengthening cybersecurity within the rapidly growing Internet of Things (IoT) ecosystem. It revolves around the creation and evaluation of an advanced intrusion classification system, leveraging the CICIoT2023 dataset from the University of New Brunswick’s Canadian Institute for Cybersecurity website to accurately simulate real-world IoT attack scenarios. Utilizing the XGBoost algorithm for its precision and adaptability, the project focuses on classifying IoT network traffic, employing metrics such as accuracy, recall, precision, and F1-score. Its significance lies in enhancing IoT security and shaping future security strategies.
 
