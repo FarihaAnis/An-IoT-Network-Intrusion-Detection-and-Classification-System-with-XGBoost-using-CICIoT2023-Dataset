@@ -9,6 +9,7 @@ from PIL import Image
 
 
 st.set_page_config(layout="wide")
+st.set_page_config(page_title="CICIOT2023 Dashboard")
 
 # Initialize session state for page navigation if not already set
 if 'page' not in st.session_state:
