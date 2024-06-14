@@ -111,12 +111,12 @@ if st.session_state.page == "Overview":
         # Add annotations for the y-values at 2009 and 2030
         fig.add_annotation(
             x=year[0],  # Index for year 2009
-            y=connected_devices[1],
-            text=str(connected_devices[1]) + "Billions",  # Display the value with 'B' for billion
+            y=connected_devices[0],
+            text=str(connected_devices[0]) + "Billions",  # Display the value with 'B' for billion
             showarrow=True,
             arrowhead=1,
             arrowcolor='white',
-            ax=30,
+            ax=0,
             ay=-30
         )
 
